@@ -1,0 +1,10 @@
+
+
+div.videos        {position: absolute; z-index: 1;}
+div.buttons       {position: relative; left: 20px; top: 20px; z-index: 2; opacity: 0.6;}
+div.question1     {position: relative; left: 20px; top: 30px; z-index: 2; opacity: 0.6;
+                    font-size: 30; font-weight: bold;
+                  }
+div.question2     {position: relative; left: 20px; top: -350px; z-index: 2; opacity: 0.6;
+                  font-size: 30; font-weight: bold;
+                  }
